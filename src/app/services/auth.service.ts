@@ -8,7 +8,7 @@ import { LocalStorageService } from './local-storage.service';
 
 import { environment } from '../../environments/environment';
 
-// Test commit!
+// Test commit 2!
 @Injectable()
 export class AuthService {
 	private requestOptions: RequestOptions;
